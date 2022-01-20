@@ -18,3 +18,7 @@
 
 ### Languages and Tools:
 
+
+[linkedin]: https://www.linkedin.com/in/barteksosniak/
+[instagram]: https://www.instagram.com/oazastylu/
+[twitter]: https://twitter.com/callme_bart
