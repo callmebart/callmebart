@@ -1,4 +1,4 @@
-### Hello, I'm Bartek - You can [callmebart] 👋 
+### Hello, I'm Bartek - You can [callmebart][callme] 👋 
 
 ## I'm a Student and hopefully future React Native developer
 
@@ -22,3 +22,4 @@
 [linkedin]: https://www.linkedin.com/in/barteksosniak/
 [instagram]: https://www.instagram.com/oazastylu/
 [twitter]: https://twitter.com/callme_bart
+[callme]: https://github.com/callmebart
