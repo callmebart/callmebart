@@ -1,11 +1,10 @@
 ### Hello, I'm Bartek - You can [callmebart][callme] 👋 
 
-## I'm a Student and hopefully future React Native developer
+## I'm a Student and React Native developer
 
 - 🔫 Currently building my portfolio & learning some cool stuff
-- 📪 Contact with me **bsosniak@gmail.com**
-- 🥅 2022 Goals: Build more and more projects and become a developer 
 - 💳 Crypto enthusiast
+- :white_check_mark: 🥅 2022 Goals: Build more and more projects and become a developer 
 
 ### Connect with me:
 [<img align="left" alt="callmebart | LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
