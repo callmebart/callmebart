@@ -3,12 +3,16 @@
 ## I'm a Student and React Native developer
 
 - 🔫 Currently building my portfolio & learning some cool stuff
+- 🔭 I’m currently working on **Project for customer from USA**
+- 🌱 I’m currently learning **React Native, German, Spanish**
+- 💬 Ask me about **anything**
 - 💳 Crypto enthusiast
 - :white_check_mark: 🥅 2022 Goals: Build more and more projects and become a developer 
 
+<p align="left"> <a href="https://twitter.com/callmebart" target="blank"><img src="https://img.shields.io/twitter/follow/callmebart?logo=twitter&style=for-the-badge" alt="callmebart" /></a> </p>
+
 ### Connect with me:
 [<img align="left" alt="callmebart | LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="callmebart | Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 [<img align ='left' alt='callmebart | Twitter' width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/240px-Twitter-logo.svg.png"/>][twitter]
 
 <br />
@@ -54,7 +58,6 @@
 
 
 [linkedin]: https://www.linkedin.com/in/barteksosniak/
-[instagram]: https://www.instagram.com/oazastylu/
 [twitter]: https://twitter.com/callme_bart
 [callme]: https://github.com/callmebart
 
