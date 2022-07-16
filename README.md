@@ -30,6 +30,9 @@
 <img align="left" alt="git" width="36px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" />
+<img align="left" alt="mobX" width="26px" src="https://mobx.js.org/img/mobx.png" />
+<img align="left" alt="expo" width="26px" src="https://roseneezar.dev/mobile/expo.jpg" />
 <br/>
 <br/>
 
