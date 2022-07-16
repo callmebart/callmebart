@@ -55,11 +55,9 @@
 
 ---
 
-![Barts's GitHub stats](https://github-readme-stats.vercel.app/api?username=callmebart&show_icons=true&theme=dark)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=callmebart&show_icons=true&locale=en&layout=compact" alt="callmebart" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=callmebart&show_icons=true&locale=en" alt="callmebart" /></p>
+<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=callmebart&show_icons=true&locale=e](https://github-readme-stats.vercel.app/api?username=callmebart&show_icons=true&theme=dark)n" alt="callmebart" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callmebart&" alt="callmebart" /></p>
 
