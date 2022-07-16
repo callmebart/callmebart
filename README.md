@@ -7,7 +7,6 @@
 - 💬 Ask me about **anything**
 - 💳 Crypto enthusiast
 - :white_check_mark: 🥅 2022 Goals: Build more and more projects and become a developer 
-<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +15,6 @@
 
 </p>
 
-<br/>
 
 ### Languages and Tools:
 <p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="vs" width="40" height="40"/> </a>
