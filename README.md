@@ -14,7 +14,7 @@
 <br />
 
 ### Languages and Tools:
-<p>
+<p align="left">
   <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img align="left" alt="react" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
   <img align="left" alt="ReactNative" width="36px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6-3ZDkSJr35I4fYmQThEcy_Na1B-YM9vNZJmdspa8UjubBTd5O429wHTJKl1dhpoL0Ak&usqp=CAU" />
@@ -33,6 +33,7 @@
   <img align="left" alt="MongoDB" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
   <img align="left" alt="git" width="36px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
   <img align="left" alt="python" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
+  
 </p>
 <br/>
 <br/>
