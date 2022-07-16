@@ -8,12 +8,17 @@
 - 💬 Ask me about **anything**
 - 💳 Crypto enthusiast
 - :white_check_mark: 🥅 2022 Goals: Build more and more projects and become a developer 
-
+<br />
+<br />
 <p align="left"> <a href="https://twitter.com/callmebart" target="blank"><img src="https://img.shields.io/twitter/follow/callmebart?logo=twitter&style=for-the-badge" alt="callmebart" /></a> </p>
-
+<br />
 ### Connect with me:
 [<img align="left" alt="callmebart | LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align ='left' alt='callmebart | Twitter' width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/240px-Twitter-logo.svg.png"/>][twitter]
+
+<p align="left">
+<a href="https://twitter.com/callmebart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="callmebart" height="30" width="40" /></a>
+</p>
 
 <br />
 
