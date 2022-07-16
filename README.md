@@ -10,9 +10,11 @@
 - :white_check_mark: 🥅 2022 Goals: Build more and more projects and become a developer 
 <br />
 ### Connect with me:
-[<img align="left" alt="callmebart | LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="callmebart | Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
-[<img align ='left' alt='callmebart | Twitter' width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/240px-Twitter-logo.svg.png"/>][twitter]
+<p align="left">
+<a href="https://twitter.com/callme_bart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="callmebart" height="30" width="40" /></a>
+ <a href=" https://www.linkedin.com/in/barteksosniak/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png?w=360" alt="callmebart" height="30" width="40" /></a>
+
+</p>
 
 <br/>
 
@@ -55,9 +57,6 @@
 
 ![Barts's GitHub stats](https://github-readme-stats.vercel.app/api?username=callmebart&show_icons=true&theme=dark)
 
-
-[linkedin]: https://www.linkedin.com/in/barteksosniak/
-[twitter]: https://twitter.com/callme_bart
 [callme]: https://github.com/callmebart
 
 </p>
