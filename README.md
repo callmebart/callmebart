@@ -16,11 +16,13 @@
 ### Languages and Tools:
 <p align="left">
   <p align="left"><img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></p>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
- <p align="left"> <img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" /></p>
- <p align="left"> <img align="left" alt="mobX" width="26px" src="https://mobx.js.org/img/mobx.png" /></p>
-  <p align="left"><img align="left" alt="expo" width="75px" src="https://roseneezar.dev/mobile/expo.jpg" /></p>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+ <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+ <a href="" target="_blank" rel="noreferrer"><img align="left" alt="mobX" width="40px" height="40" src="https://mobx.js.org/img/mobx.png" /> </a>
+ <a href="" target="_blank" rel="noreferrer"><img align="left" alt="mobX" width="40px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" /> </a>
+
+ <p align="left"><img align="left" alt="expo" width="75px" src="https://roseneezar.dev/mobile/expo.jpg" /></p>
  <p align="left"> <img align="left" alt="JAVA" width="46px" src="https://www.seekpng.com/png/full/867-8678910_conquer-your-targeted-industry-with-our-ace-java.png" />
  <p align="left"> <img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></p>
 <img align="left" alt="git" width="36px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
