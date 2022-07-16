@@ -32,7 +32,7 @@
 
 <img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" />
 <img align="left" alt="mobX" width="26px" src="https://mobx.js.org/img/mobx.png" />
-<img align="left" alt="expo" width="26px" src="https://roseneezar.dev/mobile/expo.jpg" />
+<img align="left" alt="expo" width="75px" src="https://roseneezar.dev/mobile/expo.jpg" />
 <br/>
 <br/>
 
