@@ -13,8 +13,6 @@
 [<img align="left" alt="callmebart | LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align ='left' alt='callmebart | Twitter' width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/240px-Twitter-logo.svg.png"/>][twitter]
 
-<br />
-
 ### Languages and Tools:
 <p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="vs" width="40" height="40"/> </a>
  <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vs" width="40" height="40"/> </a>
