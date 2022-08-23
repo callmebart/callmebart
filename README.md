@@ -2,7 +2,6 @@
 
 ## I'm a Student and React Native developer
 
-- 🔫 I’m currently learning some cool stuff**
 - 🌱 I’m currently learning **React Native, German, Spanish**
 - 💬 Ask me about **anything**
 - 💳 Crypto enthusiast
