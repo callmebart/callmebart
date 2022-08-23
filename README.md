@@ -6,6 +6,7 @@
 - 💬 Ask me about **anything**
 - 💳 Crypto enthusiast
 - :white_check_mark: 🥅 2022 Goals: Build more and more projects and become a developer 
+- 🥅 Goals : learn Spanish, playing the guitar
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
