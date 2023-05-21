@@ -1,13 +1,5 @@
 ### Hello, I'm Bartek - You can [callmebart][callme] 👋 
 
-## I'm a Student and React Native developer
-
-- 🌱 I’m currently learning **React Native, German, Spanish**
-- 💬 Ask me about **anything**
-- 💳 Crypto enthusiast
-- :white_check_mark: 🥅 2022 Goals: Build more and more projects and become a developer 
-- 🥅 Goals : learn Spanish, learn to play the guitar
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/callme_bart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="callmebart" height="30" width="40" /></a>
