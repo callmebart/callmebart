@@ -1,1 +1,1 @@
-### Hello, I'm Bartek - You can [callmebart][callme] 👋 
+### Hello, I'm Bartek - You can callmebart 👋 
